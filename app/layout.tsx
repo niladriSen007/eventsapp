@@ -9,6 +9,11 @@ const poppins = Poppins({
   variable: "--font-poppins",
 });
 
+/**
+ * Metadata for the application.
+ *
+ * Defines the title, description, and icon used across the app.
+ */
 export const metadata: Metadata = {
   title: "Events",
   description: "Evently is a platform for event management.",
